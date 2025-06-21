@@ -1,1 +1,12 @@
-Enter ssh bandit.labs.overthewire
+ssh - In simple terms, SSH (Secure Shell) is a way to remotely access and manage another computer over a network, like the internet, using a secure, encrypted connection. It's like having a secure remote control for another computer
+
+The given link is bandit.labs.overthewire.org and port is 2220
+
+Enter this "bandit0" before the link because to tell the username 
+Enter ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+here -p 2220 tells the port of the website
+here the password fro level 0 is bandit0
+
+then learn all the given command like 
+ls,cd,cat,file, du ,find
