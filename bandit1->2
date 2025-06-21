@@ -3,4 +3,8 @@ password for level 1 to 2 is
 enter exit get the normal command
 
 enter ssh bandit2@bandit.overthewire.org -p 2220
-enter ls it will show file name as space in file
+enter ls it will show file name as "space in this filename"
+
+then cat space in this filename 
+then the password for level 2 to 3 is
+-> MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
