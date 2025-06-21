@@ -1,0 +1,8 @@
+The password for the level 0 to 1 is 
+-> ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+Enter exit 
+then again ssh bandit1@bandit.labs.overthewire.org -p 2220
+enter password of level 0 to 1 
+then enter ls it will return this -
+use cat <- to see the inner password
+password for level 1 to 2 is 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
