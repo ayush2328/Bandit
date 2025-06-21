@@ -1,3 +1,6 @@
 password for level 1 to 2 is 
 -> 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 enter exit get the normal command
+
+enter ssh bandit2@bandit.overthewire.org -p 2220
+enter ls it will show file name as space in file
