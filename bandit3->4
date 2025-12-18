@@ -1,0 +1,17 @@
+then enter ls command it will inhere folder
+enter cd inhere 
+
+then enter ls 
+it will show nothing 
+
+then enter ls -alps
+it will show all the hidden files 
+enter cat ./... Hiding-From-You
+
+then it show the password for level 3 to 4 is
+-> 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+
+
+//NOTE: to make hidden file use three dots then space then enter the file name eg.. -> ... File1.txt
+
+Enter exit 
