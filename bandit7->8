@@ -1,0 +1,8 @@
+enter the password then 
+enter "ls -alps" - it the data is in data.txt file but it is very large file 
+NOTE: To see what is strings work use "whatis strings" and also to know any thing use "whatis _____"
+
+enter "strings data.txt | grep millionth ".  
+
+then copy the password "Ctrl + Shift + C"
+then exit
