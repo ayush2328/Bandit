@@ -1,3 +1,4 @@
+ssh bandit4@bandit.labs.overthewire.org -p 2220 in the root terminal
 enter the password then 
 enter "ls -alps" - it the data is in data.txt file but it is very large file 
 NOTE: To see what is strings work use "whatis strings" and also to know any thing use "whatis _____"
