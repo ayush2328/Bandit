@@ -1,0 +1,7 @@
+enter the password then 
+enter "ls -alps" - it the data is in data.txt file but is encoded with base64 so 
+
+enter "whatis base64" and also see in detail about "man base64"
+enter "strings data.txt" to see the data and "base64 -d" to decode the data to combine this
+enter "strings data.txt | base64 -d" to get the password copy it
+enter exit
