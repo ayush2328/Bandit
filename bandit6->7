@@ -1,8 +1,7 @@
 enter the password then 
-enter "ls -alps"
-cd inhere
-NOTE: Because the file in the inside inhere folder and its is only human readable , size 1033 bytes (represted by 1033c) and not executable file . There are many folder inside "inhere folder" so then to find this file....
-enter "find . -type f -size 1033c ! -executable"
-enter "cat ./maybehere07/.file2"
+enter "ls -alps" - Nothing Because it is in the server so to find this using this/....
+
+enter "find / -type f -user bandit7 -group bandit6 -size 33c ".  NOTE: find / to search the entire linex file system
+enter "cat ./var/lib/dpkg/info/bandit7.password"
 then copy the password "Ctrl + Shift + C"
 then exit
