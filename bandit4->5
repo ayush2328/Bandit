@@ -1,3 +1,4 @@
+ssh bandit5@bandit.labs.overthewire.org -p 2220 in the root terminal
 bandit 4->5 after entering the password
 
 enter "ls -alps" it will show the all the files and folder to see the human readable file 

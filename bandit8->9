@@ -4,6 +4,8 @@ enter "ls -alps" - it the data is in data.txt file but it is very large file
 enter "sort data.txt" it will sort the data but it has multiple similar lines so 
 NOTE: enter "man uniq" to all the things it can do 
 
-enter "sort data.txt | uniq -c" to see the count 
-copy the password 
+enter "sort data.txt | uniq -c" to see the count by entering "uniq -c"
+
+copy the password
+
 enter exit
