@@ -1,0 +1,19 @@
+enter the password then 
+enter "ls -alps" - it the data is in data.txt file with rotate 13 in from A-Z && a-Z|
+
+using rot13 there is two method 
+1-> go to cyberchef then enter rot13 give file output it will give you the result
+2-> whatis tr && man tr then 
+    enter tr 'A-Za-z' 'N-ZA-Mn-za-m' 
+    because here A becomes N
+    A = N       a = n
+    .           .
+    .           .
+    M = Z
+    N = A        z = m
+    .
+    .
+    Z = M
+    
+copy the password 
+enter exit
