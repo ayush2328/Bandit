@@ -1,0 +1,8 @@
+enter the password then 
+enter "ls -alps" - it the data is in data.txt file in one of the few humanreadable lines in '=' format
+
+enter "strings data.txt" to see the data 
+enter "man grep" to see what is it show
+
+final enter the "strings data.txt | grep "=" "  because password is in the '=' so copy the password
+enter the exit
